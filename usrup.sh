@@ -29,7 +29,7 @@ make_install(){
 	sudo make install
 }
 
-#usage: usrup_do subdir is_up_to_date_func build_or_install_commands...
+#usage: usrup_do subdir outdated_func build_or_install_commands...
 usrup_do(){
 	prog=$1
 	cd "$1"
