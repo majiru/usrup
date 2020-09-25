@@ -1,6 +1,6 @@
 ## Usrup
 
-Usrup is a small script for managing you $HOME/src directory.
+Usrup is a small script for managing your $HOME/src directory.
 I find it often that in addition to packages installed with
 my package manager I have programs I clone and use that
 I would like to keep up to date. The script usrup.sh will do
